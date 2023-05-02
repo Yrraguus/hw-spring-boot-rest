@@ -1,5 +1,6 @@
-package com.example.hwspringbootrest.repository;
+package com.example.hwspringbootrest.users;
 
+import com.example.hwspringbootrest.users.Authorities;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 

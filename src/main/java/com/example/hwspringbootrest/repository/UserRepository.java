@@ -1,10 +1,13 @@
 package com.example.hwspringbootrest.repository;
 
+import com.example.hwspringbootrest.users.Authorities;
+import com.example.hwspringbootrest.users.User;
+
 import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static com.example.hwspringbootrest.repository.Authorities.*;
+import static com.example.hwspringbootrest.users.Authorities.*;
 
 /*
 Requests for testing

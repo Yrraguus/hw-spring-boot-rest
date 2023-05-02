@@ -1,4 +1,4 @@
-package com.example.hwspringbootrest.repository;
+package com.example.hwspringbootrest.users;
 
 public enum Authorities {
     READ, WRITE, DELETE
