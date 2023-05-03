@@ -1,6 +1,6 @@
 package com.example.hwspringbootrest.service;
 
-import com.example.hwspringbootrest.users.Authorities;
+import com.example.hwspringbootrest.domain.Authorities;
 import com.example.hwspringbootrest.exception.InvalidCredentials;
 import com.example.hwspringbootrest.exception.UnauthorizedUser;
 import com.example.hwspringbootrest.repository.UserRepository;

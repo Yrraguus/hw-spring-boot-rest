@@ -1,6 +1,5 @@
-package com.example.hwspringbootrest.users;
+package com.example.hwspringbootrest.domain;
 
-import com.example.hwspringbootrest.users.Authorities;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 

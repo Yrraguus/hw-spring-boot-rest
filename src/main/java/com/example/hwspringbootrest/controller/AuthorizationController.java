@@ -1,6 +1,6 @@
 package com.example.hwspringbootrest.controller;
 
-import com.example.hwspringbootrest.users.Authorities;
+import com.example.hwspringbootrest.domain.Authorities;
 import com.example.hwspringbootrest.service.AuthorizationService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
