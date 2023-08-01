@@ -11,6 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>hw-spring-boot-rest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>hw-spring-boot-rest</name>
     <description>hw-spring-boot-rest</description>
     <properties>

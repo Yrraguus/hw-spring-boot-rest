@@ -1,5 +1,3 @@
-// https://github.com/netology-code/jd-homeworks/tree/master/spring_boot_rest/task1
-
 package com.example.hwspringbootrest;
 
 import org.springframework.boot.SpringApplication;
